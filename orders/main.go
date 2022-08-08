@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/testOrgHimali/app/pkg/utils"
+	"pkg/utils"
 	"net/http"
 )
 
